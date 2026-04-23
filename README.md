@@ -2,17 +2,15 @@
 <h1 align="center">Hi, I'm Soyvinzz</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=5A0691&size=28&center=true&vCenter=true&width=700&lines=Junior+Designer+%2F+Artist;Web+Design+Learner;Creative+UI+Builder" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=5A0691&size=28&center=true&vCenter=true&width=500&lines=Junior+Designer+%2F+Artist;Web+Design+Learner;Creative+UI+Builder" />
 </p>
 
 <br>
 
 <!-- BANNER -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/94230e32-6ce7-42d6-90dc-ec74449252f1" width="90%" />
+  <img src="https://github.com/user-attachments/assets/cd2469f8-ac18-47e7-ac5d-4ca10469061d" width="100%" />
 </p>
-
----
 
 ## Introduction
 
