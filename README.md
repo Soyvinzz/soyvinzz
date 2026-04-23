@@ -1,11 +1,11 @@
-<!-- HEADER -->
-<p align="center" style="margin: 0;">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=5A0691&size=28&center=true&vCenter=true&width=500&lines=Junior+Designer+%2F+Artist;Web+Design+Learner;Creative+UI+Builder" />
-</p>
-
 <!-- BANNER -->
 <p align="center" style="margin-top: 5px;">
   <img src="https://github.com/user-attachments/assets/cd2469f8-ac18-47e7-ac5d-4ca10469061d" width="100%" />
+</p>
+
+<!-- HEADER -->
+<p align="center" style="margin: 0;">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=5A0691&size=28&center=true&vCenter=true&width=500&lines=Junior+Designer+%2F+Artist;Web+Design+Learner;Creative+UI+Builder" />
 </p>
 
 ---
@@ -22,10 +22,10 @@ Currently, I’m focused on enhancing my knowledge in web design and development
 
 ## About Me
 
-- Student  
+- IT Student  
 - Junior Designer & Artist  
-- Currently learning: HTML, CSS, JavaScript, PHP  
-- Tools: Canva, Photoshop  
+- Interested in Web Design & Front-End Development  
+- Tools: Canva, Photoshop, VScode
 - Email: lambayongjohnvincent@gmail.com  
 
 ---
