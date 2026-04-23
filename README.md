@@ -1,6 +1,4 @@
 <!-- HEADER -->
-<h1 align="center" style="margin-bottom: 5px;">Hi, I'm Soyvinzz</h1>
-
 <p align="center" style="margin: 0;">
   <img src="https://readme-typing-svg.herokuapp.com/?color=5A0691&size=28&center=true&vCenter=true&width=500&lines=Junior+Designer+%2F+Artist;Web+Design+Learner;Creative+UI+Builder" />
 </p>
@@ -12,7 +10,7 @@
 
 ---
 
-## Introduction
+## Hi, I'm John Vincent Lambayong
 
 I’m a junior designer and artist with a growing passion for digital and web design.  
 I’m continuously learning and exploring new tools, techniques, and trends to improve my skills and create better user-focused designs.
