@@ -25,7 +25,6 @@ Currently, I’m focused on enhancing my knowledge in web design and development
 - IT Student  
 - Junior Designer & Artist  
 - Interested in Web Design & Front-End Development  
-- Tools: Canva, Photoshop, VScode
 - Email: lambayongjohnvincent@gmail.com  
 
 ---
