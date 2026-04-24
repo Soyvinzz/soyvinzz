@@ -50,6 +50,12 @@ Currently, I’m focused on enhancing my knowledge in web design and development
   </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/soyvinzz/Trail-Connect">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=soyvinzz&repo=TrailConnect&theme=default" />
+  </a>
+</p>
+
 ---
 
 ## GitHub Stats
